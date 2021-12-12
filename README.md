@@ -19,7 +19,7 @@ THIS SCRIPT IS NOT MEANT TO PROMOTE OR FACILIATE PIRACY, BUT RATHER TO BE A LEAR
 Your book page url will look something like this:- 
 https://digital.darkhorse.com/books/5baf9f8140344ca1879a74669e3abd42/world-of-the-witcher-hc
 
-3) Click on "Read Now" and then copy the page URL. 
+3) Click on "Read Now" and then copy the page URL. It will look something like this:- https://digital.darkhorse.com/read/6da55e3e05a349629fda0aae6849602d
 4) Download or clone this repository to your PC.
 5) Double-click on "url.py" and paste the url that you copied in the earlier steps. This will open the download page and start downloading your book as "book.tar".
 6) Double-click on "full script v2.py" and enter the path of the book you downloaded **without quotes!**
