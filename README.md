@@ -13,7 +13,7 @@ THIS SCRIPT IS NOT MEANT TO PROMOTE OR FACILIATE PIRACY, BUT RATHER TO BE A LEAR
 
 **How to use:-** 
 
-1) Open your browser and login to https://digital.darkhorse.com/ 
+1) Open your browser and login to https://digital.darkhorse.com/accounts/login/?next=/
 2) Search and open the book you want to download. **REMEMBER this will only work for books you own! Nothing else.**
 
 Your book page url will look something like this:- 
