@@ -24,7 +24,8 @@ https://digital.darkhorse.com/books/5baf9f8140344ca1879a74669e3abd42/world-of-th
 5) Double-click on "url.py" and paste the url that you copied in the earlier steps. This will open the download page and start downloading your book as "book.tar".
 6) Double-click on "full script v2.py" and enter the path of the book you downloaded **without quotes!**
 
-It will now do the following steps automatically:- 
+It will now do the following steps automatically:-
+
 i) Extract the tar file
 ii) Rename and convert the files to images in the correct order.
 iii) Zip it into a CBZ file.
